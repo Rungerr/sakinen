@@ -483,4 +483,4 @@ async def on_command_error(ctx, error):
 
 
 		
-bot.run("NzI5MzE2MzIzODcxNDI0NTUy.XwHmdg.ezs-AWvSbR1h9wieMcY9izpSj7o")
+bot.run("TOKEN")
